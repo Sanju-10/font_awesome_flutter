@@ -1627,4 +1627,5 @@ final icons = <ExampleIcon>[
   ExampleIcon(FontAwesomeIcons.youtube, 'youtube'),
   ExampleIcon(FontAwesomeIcons.youtubeSquare, 'youtubeSquare'),
   ExampleIcon(FontAwesomeIcons.zhihu, 'zhihu'),
+  ExampleIcon(FontAwesomeIcons.userAlien, 'userAlien'),
 ];

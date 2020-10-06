@@ -1623,4 +1623,5 @@ class FontAwesomeIcons {
   static const IconData youtube = const IconDataBrands(0xf167);
   static const IconData youtubeSquare = const IconDataBrands(0xf431);
   static const IconData zhihu = const IconDataBrands(0xf63f);
+  static const IconData userAlien = const IconDataBrands(0xe04a);
 }
